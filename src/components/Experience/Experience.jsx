@@ -12,7 +12,7 @@ import './Experience.css'
 const experienceData = [
   {
     id: 1,
-    role: 'Marketing and Sales Executive',
+    role: 'Business Analytics Intern',
     company: 'Flowlogic Solutions, Bangalore',
     period: '1st April 2026 — 30th May 2026',
     certificateDate: '30 May 2026',
@@ -20,7 +20,7 @@ const experienceData = [
     signatories: 'Brinda S (Sales Manager) & Mohan Kumar R (Managing Partner)',
     appreciation: 'During the internship period, he demonstrated dedication, professionalism, and a willingness to learn while carrying out his assigned responsibilities. We appreciate his contribution and wish him success in all future endeavors.',
     bullets: [
-      "Completed 2-month intensive internship program as Marketing and Sales Executive at Flowlogic Solutions, Bangalore.",
+      "Completed 2-month intensive internship program as Business Analytics Intern at Flowlogic Solutions, Bangalore.",
       "Developed and deployed the company's corporate website, including web hosting, domain setup, custom branding, and SEO optimization.",
       "Optimized IndiaMART profile and actively engaged with prospective clients to support lead generation and requirement gathering.",
       "Promoted company products at industry exhibitions while interacting with prospective clients and senior stakeholders.",
