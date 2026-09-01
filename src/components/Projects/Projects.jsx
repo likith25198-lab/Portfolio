@@ -28,6 +28,7 @@ const projectsData = [
     ],
     tools: ['Python', 'FastAPI', 'Google ADK', 'Gemini 2.5 (Vertex AI)', 'Google Cloud Run', 'Cloud Firestore', 'Cloud Scheduler', 'Gmail MCP', 'Google Calendar MCP', 'Docker'],
     skills: ['AI Agent Development', 'Workflow Automation', 'API Development', 'Cloud Computing', 'Backend Development', 'System Design', 'Google Cloud Services', 'Business Process Automation'],
+    link: { url: 'https://invoiceiq-76.df.r.appspot.com/', label: 'View Live' },
   },
   {
     id: 'm1',
